@@ -1,0 +1,36 @@
+How does a solenoid behave like a magnet? Can you determine the north and
+south poles of a current-carrying solenoid with the help of a bar magnet? Explain.
+
+. When is the force experienced by a current-carrying conductor placed in a magnetic
+field largest?
+
+. Imagine that you are sitting in a chamber with your back to one wall. An electron
+beam, moving horizontally from back wall towards the front wall, is deflected by a
+strong magnetic field to your right side. What is the direction of magnetic field?
+
+. Draw a labelled diagram of an electric motor. Explain its principle and working.
+What is the function of a split ring in an electric motor?
+
+. Name some devices in which electric motors are used.
+
+. Acoil of insulated copper wire is connected to a galuanometer. What will happen if
+a bar magnet is (i) pushed into the coil, (ii) withdrawn from inside the coil, (iii) held
+stationary inside the coil?
+
+Two circular coils A and B are placed closed to each other. If the current in the coil
+A is changed, will some current be induced in the coil B? Give reason.
+
+State the rule to determine the direction of a (i) magnetic field produced around a
+straight conductor-carrying current, (ii) force experienced by a current-carrying
+straight conductor placed in a magnetic field which is perpendicular to it, and
+(iii) current induced in a coil due to its rotation in a magnetic field.
+
+. Explain the underlying principle and working of an electric generator by drawing
+a labelled diagram. What is the function of brushes?
+
+When does an electric short circuit occur?
+
+What is the function of an earth wire? Why is it necessary to earth metallic
+appliances?
+
+Magnetic Effects of Electric Current 41

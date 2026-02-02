@@ -1,0 +1,76 @@
+Let us now perform a variation of Activity 13.8 in which the moving
+magnet is replaced by a current-carrying coil and the current in the coil
+can be varied.
+
+Take two different coils of copper wire having
+large number of turns (say 50 and 100 turns
+respectively). Insert them over a non-conducting
+cylindrical roll, as shown in Fig. 13.17. (You may
+use a thick paper roll for this purpose.)
+Connect the coil-1, having larger number of
+turns, in series with a battery and a plug key.
+Also connect the other coil-2 with a
+galvanometer as shown.
+
+Plug in the key. Observe the galvanometer. Is
+there a deflection in its needle? You will observe
+that the needle of the galuanometer instantly
+jumps to one side and just as quickly returns to
+zero, indicating a momentary current in coil-2.
+Disconnect coil-1 from the battery. You will
+observe that the needle momentarily moves, but
+
+Coil-1
+
+to the opposite side. It means that now the Figure 13.17
+
+Coil-2
+
+current flows in the opposite direction in coil-2. Current ts induced in coil-2 when current
+in cotl-I ts changed
+
+In this activity we observe that as soon as the current in coil-1 reaches
+either a steady value or zero, the galvuanometer in coil-2 shows no
+deflection.
+
+From these observations, we conclude that a potential difference is
+induced in the coil-2 whenever the electric current through the coil-1
+is changing (starting or stopping). Coil-1 is called the primary coil and
+coil-2 is called the secondary coil. As the current in the first coil changes,
+the magnetic field associated with it also changes. Thus the magnetic
+field lines around the secondary coil also change. Hence the change in
+magnetic field lines associated with the secondary coil is the cause of
+induced electric current in it. This process, by which a changing
+magnetic field in a conductor induces a current in another conductor,
+is called electromagnetic induction. In practice we can induce current
+in a coil either by moving it in a magnetic field or by changing the
+magnetic field around it. It is convenient in most situations to move
+the coil in a magnetic field.
+
+The induced current is found to be the highest when
+the direction of motion of the coil is at right angles to the
+magnetic field. In this situation, we can use a simple rule
+to know the direction of the induced current. Stretch the
+thumb, forefinger and middle finger of right hand so that C
+
+‘urrent
+they are perpendicular to each other, as shown in induced
+Fig. 13.18. If the forefinger indicates the direction of the in conductor
+magnetic field and the thumb shows the direction of motion
+of conductor, then the middle finger will show the direction
+of induced current. This simple rule is called Fleming’s
+right-hand rule.
+
+Magnetic Effects of Electric Current
+
+Magnetic field
+
+Movement of
+conductor
+
+Motion
+Field
+Induced current
+
+Figure 13.18
+Fleming's right-hand rule

@@ -1,0 +1,41 @@
+The electron dot structure for ethene is given in Fig. 4.7.
+Yet another compound of hydrogen and carbon has the formula
+C,H, and is called ethyne. Can you draw the electron dot
+structure for ethyne? How many bonds are necessary between
+the two carbon atoms in order to satisfy their valencies? Such
+compounds of carbon having double or triple bonds between
+the carbon atoms are known as unsaturated carbon compounds
+and they are more reactive than the saturated carbon
+compounds.
+
+Figure 4.7
+Structure of ethene 4.2.2 Chains, Branches and Rings
+
+In the earlier section, we mentioned the carbon compounds methane,
+ethane and propane, containing respectively 1, 2 and 3 carbon atoms.
+Such ‘chains’ of carbon atoms can contain tens of carbon atoms. The
+names and structures of six of these are given in Table 4.2.
+
+Table 4.2 Formulae and structures of saturated compounds of carbon and hydrogen
+
+No. of C
+atoms
+H
+
+1 Methane CH, ACT
+H
+jane
+2 Ethane C,H, eae
+H H
+iit
+3 Propane C,H, BC —© —G -H
+H H A
+ane
+4 Butane C,H, BEE G Ces
+H H HH
+
+5 Pentane C.H a r oro C-H
+
+6 Hexane CH H-C-C-C-C-C-C-H
+
+64 Science

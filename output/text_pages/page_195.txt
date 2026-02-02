@@ -1,0 +1,84 @@
+Figure 11.7
+Rainbow in the sky
+
+Raindrop
+
+Sunlight
+
+Violet
+
+allowed all the colours of the spectrum to pass through the
+second prism. He found a beam of white light emerging from the
+other side of the second prism. This observation gave Newton
+the idea that the sunlight is made up of seven colours.
+
+Any light that gives a spectrum similar to that of sunlight is
+often referred to as white light.
+
+Arainbow is a natural spectrum appearing in the sky after a
+rain shower (Fig. 11.7). It is caused by dispersion of sunlight by
+tiny water droplets, present in the atmosphere. A rainbow is
+always formed in a direction opposite to that of the Sun. The
+water droplets act like small prisms. They refract and disperse
+the incident sunlight, then reflect it internally, and finally refract
+it again when it comes out of the raindrop (Fig. 11.8). Due to the
+dispersion of light and internal reflection, different colours reach
+the observer's eye.
+
+You can also see a rainbow on a sunny day when you look at
+the sky through a waterfall or through a water fountain, with the
+Sun behind you.
+
+11.5 ATMOSPHERIC REFRACTION
+
+You might have observed the apparent random wavering or
+
+flickering of objects seen through a turbulent stream of hot air rising
+
+above a fire or a radiator. The air just above the fire becomes hotter than
+the air further up. The hotter air is lighter (less dense) than the cooler air
+above it, and has a refractive index slightly less than that of the cooler
+air. Since the physical conditions of the refracting medium (air) are not
+stationary, the apparent position of the object, as seen through the hot
+air, fluctuates. This wavering is thus an effect of atmospheric refraction
+(refraction of light by the earth’s atmosphere) on a small scale in our
+local environment. The twinkling of stars is a similar phenomenon ona
+much larger scale. Let us see how we can explain it.
+
+Figure 11.8
+Rainbow formation
+Apparent
+Star * star position
+
+Ray path
+
+Refractive index
+increasing
+
+Figure 11.9
+Apparent star position
+due to atmospheric
+refraction
+
+194
+
+Twinkling of stars
+
+The twinkling of a star is due to atmospheric refraction of
+starlight. The starlight, on entering the earth’s atmosphere,
+undergoes refraction continuously before it reaches the earth.
+The atmospheric refraction occurs in a medium of gradually
+changing refractive index. Since the atmosphere bends
+starlight towards the normal, the apparent position of the
+star is slightly different from its actual position. The star
+appears slightly higher (above) than its actual position when
+viewed near the horizon (Fig. 11.9). Further, this apparent
+position of the star is not stationary, but keeps on changing
+slightly, since the physical conditions of the earth’s
+atmosphere are not stationary, as was the case in the
+previous paragraph. Since the stars are very distant, they
+approximate point-sized sources of light. As the path of rays
+of light coming from the star goes on varying slightly, the
+apparent position of the star fluctuates and the amount of
+
+Science

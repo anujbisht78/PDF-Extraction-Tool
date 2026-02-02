@@ -1,0 +1,56 @@
+Q U ES TION S$
+
+Judge the equivalent resistance when the following are connected in
+parallel - (a) 1 Q and 10® Q, (b) 1 Q and 10° Q, and 108 Q.
+
+An electric lamp of 100 Q, a toaster of resistance 50 Q, and a water filter
+of resistance 500 Q are connected in parallel to a 220 V source. What is
+the resistance of an electric iron connected to the same source that
+takes as much current as all three appliances, and what is the current
+through it?
+
+What are the advantages of connecting electrical devices in parallel
+with the battery instead of connecting them in series?
+
+How can three resistors of resistances 2 Q, 3 Q, and 6 Q be connected to
+give a total resistance of (a) 4 Q, (b) 1 Q?
+
+What is (a) the highest, (b) the lowest total resistance that can be secured
+by combinations of four coils of resistance 4 Q, 8 Q, 12 Q, 24 Q?
+
+12.7 HEATING EFFECT OF ELECTRIC CURRENT
+
+We know that a baitery or a cell is a source of electrical energy. The
+chemical reaction within the cell generates the potential difference between
+its two terminals that sets the electrons in motion to flow the current
+through a resistor or a system of resistors connected to the battery. We
+have also seen, in Section 12.2, that to maintain the current, the source
+has to keep expending its energy. Where does this energy go? A part of
+the source energy in maintaining the current may be consumed into
+useful work (like in rotating the blades of an electric fan). Rest of the
+source energy may be expended in heat to raise the temperature of
+gadget. We often observe this in our everyday life. For example, an electric
+fan becomes warm if used continuously for longer time etc. On the other
+hand, ifthe electric circuit is purely resistive, that is, a configuration of
+resistors only connected to a battery; the source energy continually gets
+dissipated entirely in the form of heat. This is known as the heating
+effect of electric current. This effect is utilised in devices such as electric
+heater, electric iron ete.
+
+Consider a current I flowing through a resistor of resistance R. Let
+the potential difference across it be V(Fig. 12.13). Let tbe the time during
+which a charge @ flows across. The work done in moving the charge Q
+through a potential difference Vis VQ. Therefore, the source must supply
+energy equal to VQ in time t. Hence the power input to the circuit by the
+source is
+
+pav2evi (12.19)
+
+Or the energy supplied to the circuit by the source in time tis Px t,
+that is, Vit. What happens to this energy expended by the source? This
+energy gets dissipated in the resistor as heat. Thus for a steady
+current J, the amount of heat H produced in time tis
+
+H=VIt (12.20)
+
+216 Science

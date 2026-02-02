@@ -1,0 +1,33 @@
+222
+
+. Twolamps, one rated 100 W at 220 V, and the other 60 W at 220 V, are connected
+
+in parallel to electric mains supply. What current is drawn from the line if the supply
+voltage is 220 V?
+
+. Which uses more energy, a 250 W TV set in 1 hr, or a 1200 W toaster in 10 minutes?
+. An electric heater of resistance 8 Q draws 15 A from the service mains 2 hours.
+
+Calculate the rate at which heat is developed in the heater.
+
+Explain the following.
+
+(a)
+(b)
+
+(c)
+(d)
+(e)
+
+Why is the tungsten used almost exclusively for filament of electric lamps?
+
+Why are the conductors of electric heating devices, such as bread-toasters
+and electric irons, made of an alloy rather than a pure metal?
+
+Why is the series arrangement not used for domestic circuits?
+How does the resistance of a wire vary with its area of cross-section?
+
+Why are copper and aluminium wires usually employed for electricity
+transmission?
+
+Science

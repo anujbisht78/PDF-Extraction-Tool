@@ -1,0 +1,48 @@
+potential difference between two points in a current carrying conductor
+when 1 joule of work is done to move a charge of 1 coulomb from one
+
+point to the other.
+1 joule
+Therefore, 1 volt = ————__ (12.3)
+1 coulomb
+1V =1JC'!
+
+The potential difference is measured by means of an instrument called
+the voltmeter. The voltmeter is always connected in parallel across the
+points between which the potential difference is to be measured.
+
+Example 12.2
+How much work is done in moving a charge of 2 C across two points
+having a potential difference 12 V?
+
+Solution
+
+The amount of charge Q, that flows between two points at potential
+difference V (= 12 V) is 2 C. Thus, the amount of work W, done in
+moving the charge [from Eq. (12.2)] is
+
+W = VQ
+12Vx2C
+24 J.
+
+Q U ES TION $
+
+Name a device that helps to maintain a potential difference across a
+conductor.
+
+What is meant by saying that the potential difference between two points
+is 1 V?
+
+How much energy is given to each coulomb of charge passing through a
+6 V battery?
+
+12.3 CIRCUIT DIAGRAM
+
+We know that an electric circuit, as shown in Fig. 12.1, comprises a cell
+(or a battery), a plug key, electrical component(s), and connecting wires.
+It is often convenient to draw a schematic diagram, in which different
+components of the circuit are represented by the symbols conveniently
+used. Conventional symbols used to represent some of the most
+commonly used electrical components are given in Table 12.1.
+
+202 Science

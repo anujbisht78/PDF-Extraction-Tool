@@ -1,0 +1,61 @@
+through it. Its SI unit is ohm, represented by the Greek letter Q. According
+to Ohm’s law,
+
+If the potential difference across the two ends of a conductor is 1 V
+and the current through itis 1 A, then the resistance R, of the conductor
+
+. _1volt _
+is 1 Q. That is, 1 ohm = 1 ampere
+
+Also from Eq. (12.5) we get
+
+It is obvious from Eq. (12.7) that the current through a resistor is
+inversely proportional to its resistance. If the resistance is doubled the
+current gets halved. In many practical cases it is necessary to increase
+or decrease the current in an electric circuit. A component used to
+regulate current without changing the voltage source is called variable
+resistance. In an electric circuit, a device called rheostat is often used to
+change the resistance in the circuit. We will now study about electrical
+resistance of a conductor with the help of following Activity.
+
+Take a nichrome wire, a torch bulb, a 10 W bulb and an ammeter (0 - 5 A range), a plug
+
+key and some connecting wires.
+
+Set up the circuit by connecting four dry cells of 1.5 V each in series with the ammeter
+
+leaving a gap XY in the circuit, as shown in Fig. 12.4.
+
++ =
+
+T Nichrome wire
+
+HHH-——
+
+Figure 12.4
+
+Complete the circuit by connecting the nichrome wire in the gap XY. Plug the key. Note
+down the ammeter reading. Take out the key from the plug. [Note: Always take out the key
+
+from the plug after measuring the current through the circuit.]
+
+Replace the nichrome wire with the torch bulb in the circuit and find the current through
+
+it by measuring the reading of the ammeter.
+Now repeat the above step with the 10 W bulb in the gap XY.
+
+Are the ammeter readings differ for different components connected in the gap XY? What
+
+do the above observations indicate?
+
+You may repeat this Activity by keeping any material component in the gap. Observe the
+
+ammeter readings in each case. Analyse the observations.
+
+In this Activity we observe that the current is different for different
+components. Why do they differ? Certain components offer an easy path
+for the flow of electric current while the others resist the flow. We know
+
+Electricity
+
+205

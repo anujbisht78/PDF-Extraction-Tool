@@ -1,0 +1,60 @@
+resistance of the conductor depends (i) on its length, (ii) on its area of
+cross-section, and (iii) on the nature of its material. Precise measurements
+have shown that resistance of a uniform metallic conductor is directly
+proportional to its length (J) and inversely proportional to the area of
+cross-section (A). That is,
+
+Rel (12.8)
+and R«1l/A (12.9)
+Combining Eqs. (12.8) and (12.9) we get
+Re &
+“A
+R= L (12.10)
+or, =P .
+
+where p (rho) is a constant of proportionality and is called the electrical
+resistivity of the material of the conductor. The SI unit of resistivity is
+Q m. It is a characteristic property of the material. The metals and alloys
+have very low resistivity in the range of 1O* Qmto 10° Q m. They are
+good conductors of electricity. Insulators like rubber and glass have
+resistivity of the order of 10! to 10!” Q m. Both the resistance and
+resistivity of a material vary with temperature.
+
+Table 12.2 reveals that the resistivity of an alloy is generally higher
+than that of its constituent metals. Alloys do not oxidise (burn) readily
+at high temperatures. For this reason, they are commonly used in
+electrical heating devices, like electric iron, toasters etc. Tungsten is used
+almost exclusively for filaments of electric bulbs, whereas copper and
+aluminium are generally used for electrical transmission lines.
+
+Table 12.2 Electrical resistivity* of some substances at 20°C
+
+Conductors Silver 1.60 x 10°
+Copper 1.62 x 10°
+Aluminium 2.63 x 10°
+Tungsten 5.20 x 10%
+Nickel 6.84 x 10°
+Iron 10.0 x 108
+Chromium 12.9 x 108
+Mercury 94.0 x 10°
+Manganese 1.84 x 10°
+
+Alloys Constantan 49 x 10°
+(alloy of Cu and Ni)
+Manganin 44 x 10°
+(alloy of Cu, Mn and Ni)
+Nichrome 100 x 10°
+(alloy of Ni, Cr, Mn and Fe)
+
+Insulators Glass 101° — 1014
+Hard rubber 1018 — 1016
+Ebonite 10% — 1017
+Diamond 10? - 1018
+Paper (dry) 10"
+
+* You need not memorise these values. You can use these values for solving numerical
+problems.
+
+Electricity
+
+207

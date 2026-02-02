@@ -1,0 +1,37 @@
+210
+
+HHH-+——~+"
+
+Figure 12.6 Resistors in series
+
+Figure 12.7 shows a combination of resistors in which three resistors
+are connected together between points X and Y. Here, the resistors are
+said to be connected in parallel.
+
+R,
+
+HHH
+
+Figure 12.7 Resistors in parallel
+
+12.6.1 Resistors in Series
+
+What happens to the value of current when a number of resistors are
+connected in series in a circuit? What would be their equivalent
+resistance? Let us try to understand these with the help of the following
+activities.
+
+Join three resistors of different values in series. Connect them
+with a battery, an ammeter and a plug key, as shown in Fig. 12.6.
+You may use the resistors of values like 1 Q, 2 Q, 3 Q etc., anda
+battery of 6 V for performing this Activity.
+
+Plug the key. Note the ammeter reading.
+
+Change the position of ammeter to anywhere in between the
+resistors. Note the ammeter reading each time.
+
+Do you find any change in the value of current through the
+ammeter?
+
+Science

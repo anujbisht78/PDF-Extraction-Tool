@@ -1,0 +1,55 @@
+Explain different ways to induce current in a coil.
+
+13.6 ELECTRIC GENERATOR
+
+Based on the phenomenon of electromagnetic induction, the experiments
+studied above generate induced current, which is usually very small.
+This principle is also employed to produce large currents for use in homes
+and industry. In an electric generator, mechanical energy is used to rotate
+a conductor in a magnetic field to produce electricity.
+
+An electric generator as shown in Fig. 13.19, consists of a rotating
+rectangular coil ABCD placed between the two poles of a permanent
+magnet. The two ends of this coil are connected to
+the two rings R, and R,. The inner side of these
+rings are made insulated. The two conducting
+stationary brushes B, and B, are kept pressed
+separately on the rings R, and R,, respectively. The
+two rings R, and R, are internally attached to an
+axle. The axle may be mechanically rotated from
+outside to rotate the coil inside the magnetic field.
+
+Rings
+(R vand Rg) Outer ends of the two brushes are connected to
+the galvanometer to show the flow of current in the
+
+f given external circuit.
+
+When the axle attached to the two rings is
+rotated such that the arm AB moves up (and the
+Figure 13.19 arm CD moves down) in the magnetic field produced
+Mlustration of the by the permanent magnet. Let us say the coil ABCD
+principle of electric is rotated clockwise in the arrangement shown in Fig. 13.19. By applying
+generator Fleming’s right-hand rule, the induced currents are set up in these arms
+
+along the directions AB and CD. Thus an induced current flows in the
+direction ABCD. If there are larger numbers of turns in the coil, the current
+generated in each turn adds up to give a large current through the coil.
+This means that the current in the external circuit flows from B, to B,.
+
+After halfa rotation, arm CD starts moving up and AB moving down.
+As a result, the directions of the induced currents in both the arms
+change, giving rise to the net induced current in the direction DCBA.
+The current in the external circuit now flows from B, to B,. Thus after
+every half rotation the polarity of the current in the respective arms
+changes. Such a current, which changes direction after equal intervals
+of time, is called an alternating current (abbreviated as AC). This device
+is called an AC generator.
+
+To get a direct current (DC, which does not change its direction with
+time), a split-ring type commutator must be used. With this arrangement,
+one brush is at all times in contact with the arm moving up in the field,
+while the other is in contact with the arm moving down. We have seen
+the working of a split ring commutator in the case of an electric motor
+
+Science

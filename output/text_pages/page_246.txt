@@ -1,0 +1,50 @@
+Now connect a cycle dynamo to this.
+
+Connect a bulb in series.
+
+Direct a jet of water or steam produced in a pressure cooker at the
+fins (Fig. 14.2). What do you observe?
+
+Steam pipe
+
+Pressure—>
+cooker
+
+Tennis ball fitted
+Heat with metal sheets
+
+Figure 14.2 A model to demonstrate the process of thermoelectric production
+
+This is our turbine for generating electricity. The simplest turbines
+have one moving part, a rotor-blade assembly. The moving fluid acts on
+the blades to spin them and impart energy to the rotor. Thus, we see
+that basically we need to move the fan, the rotor blade, with speed which
+would turn the shaft of the dynamo and convert the mechanical energy
+into electrical energy — the form of energy which has become a necessity
+in today’s scenario. The various ways in which this can be done depends
+upon availability of the resources. We will see how various sources of
+energy can be harnessed to run the turbine and generate electricity in
+the following sections.
+
+14.2.2 Thermal Power Plant
+
+Large amount of fossil fuels are burnt every day in power stations to
+heat up water to produce steam which further runs the turbine to
+generate electricity. The transmission of electricity is more efficient than
+transporting coal or petroleum over the same distance. Therefore, many
+thermal power plants are set up near coal or oil fields. The term thermal
+power plant is used since fuel is burnt to produce heat energy which is
+converted into electrical enerqy.
+
+14.2.3 Hydro Power Plants
+
+Another traditional source of energy was the kinetic energy of flowing
+water or the potential energy of water at a height. Hydro power plants
+convert the potential energy of falling water into electricity. Since there
+are very few water-falls which could be used as a source of potential
+energy, hydro power plants are associated with dams. In the last century,
+a large number of dams were built all over the world. As we can see from
+Fig. 14.1, a quarter of our energy requirement in India is met by hydro
+power plants.
+
+Sources of Energy

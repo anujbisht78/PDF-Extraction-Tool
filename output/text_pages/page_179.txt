@@ -1,0 +1,56 @@
+10.3.4 Image Formation by Lenses
+
+Lenses form images by refracting light. How do lenses form images?
+What is their nature? Let us study this for a convex lens first.
+
+Activity 10.12
+
+Take a convex lens. Find its approximate focal length in a way
+described in Activity 10.11.
+
+Draw five parallel straight lines, using chalk, on a long Table such
+that the distance between the successive lines is equal to the
+focal length of the lens.
+
+Place the lens on a lens stand. Place it on the central line such
+that the optical centre of the lens lies just over the line.
+
+The two lines on either side of the lens correspond to F and 2F of
+the lens respectively. Mark them with appropriate letters such as
+2F,, F,, F, and 2F,, respectively.
+
+Place a burning candle, far beyond 2F, to the left. Obtain a clear
+sharp image on a screen on the opposite side of the lens.
+
+Note down the nature, position and relative size of the image.
+Repeat this Activity by placing object just behind 2F,, between F,
+and 2F, at F,, between F, and O. Note down and tabulate your
+observations.
+
+The nature, position and relative size of the image formed by convex
+lens for various positions of the object is summarised in Table 10.4.
+
+Table 10.4 Nature, position and relative size of the image formed by a convex lens for various
+positions of the object
+
+Position of the Position of Relative size of Nature of
+object the image the image the image
+
+At infinity At focus F, Highly diminished, Real and inverted
+point-sized
+
+Beyond 2F, Between F, and 2F, Diminished Real and inverted
+At 2F, At 2F, Same size Real and inverted
+Between F, and 2F, Beyond 2F, Enlarged Real and inverted
+At focus F, At infinity Infinitely large or Real and inverted
+
+highly enlarged
+
+Between focus F, On the same side Enlarged Virtual and erect
+and of the lens as the
+optical centre O object
+
+Let us now do an Activity to study the nature, position and relative
+size of the image formed by a concave lens.
+
+178 Science

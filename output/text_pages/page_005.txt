@@ -1,0 +1,59 @@
+Step I: To balance a chemical equation, first draw boxes around each
+formula. Do not change anything inside the boxes while balancing the
+equation.
+
+[Fe] + [H.0] — [Fe,0,] + [H,] (1.5)
+
+Step II: List the number of atoms of different elements present in the
+unbalanced equation (1.5).
+
+Number of atoms Number of atoms
+in reactants (LHS) in products (RHS)
+
+Fe 1 3
+H 2 2
+O 1 4
+
+Step III: It is often convenient to start balancing with the compound
+that contains the maximum number of atoms. It may be a reactant ora
+product. In that compound, select the element which has the maximum
+number of atoms. Using these criteria, we select Fe,O,, and the element
+oxygen in it. There are four oxygen atoms on the RHS and only one on
+the LHS.
+
+To balance the oxygen atoms —
+
+Atoms of
+oxygen
+
+(i) Initial 1 (in H,O) 4 (in Fe,0,)
+(ii) To balance 1x4 4
+
+To equalise the number of atoms, it must be remembered that we
+cannot alter the formulae of the compounds or elements involved in the
+reactions. For example, to balance oxygen atoms we can put coefficient
+‘4’ as 4 H,O and not H,O, or (H,O),. Now the partly balanced equation
+becomes —
+
+(1.6)
++ 4[H,0| ~ + (partly balanced equation)
+
+Step IV: Fe and H atoms are still not balanced. Pick any of these elements
+to proceed further. Let us balance hydrogen atoms in the partly balanced
+equation.
+
+To equalise the number of H atoms, make the number of molecules
+of hydrogen as four on the RHS.
+
+Atoms of
+hydrogen
+
+(i) Initial 8 (in 4 H,0) 2 (in H,)
+(ii) To balance 8 2x4
+
+The equation would be —
+
+(1.7)
++ 4 > + lx, | (partly balanced equation)
+
+Science

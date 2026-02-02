@@ -1,0 +1,54 @@
+Imagine that you are holding a current-carrying straight
+conductor in your right hand such that the thumb points towards
+the direction of current. Then your fingers will wrap around the
+Magnetic conductor in the direction of the field lines of the magnetic field, as
+
+Field shown in Fig. 13.7. This is known as the right-hand thumb rule’.
+current Example 13.1
+
+Figure 13.7 A current through a horizontal power line flows in east to west
+
+Right-hand thumb rule direction. What is the direction of magnetic field at a point directly
+
+below it and at a point directly above it?
+
+Solution
+
+The current is in the east-west direction. Applying the right-hand
+thumb rule, we get that the direction of magnetic field at a point
+below the wire is from north to south. The direction of magnetic field
+at a point directly above the wire is from south to north.
+
+QUESTIONS
+
+Draw magnetic field lines around a bar magnet.
+List the properties of magnetic lines of force.
+
+Why don’t two magnetic lines of force intersect each other?
+
+13.2.3 Magnetic Field due to a Current through a
+Circular Loop
+
+We have so far observed the pattern of the magnetic field lines
+produced around a current-carrying straight wire. Suppose
+this straight wire is bent in the form of a circular loop and a
+current is passed through it. How would the magnetic field
+lines look like? We know that the magnetic field produced
+by a current-carrying straight wire depends inversely on the
+distance from it. Similarly at every point of a current-carrying
+circular loop, the concentric circles representing the magnetic
+field around it would become larger and larger as we move
+away from the wire (Fig. 13.8). By the time we reach at the
+centre of the circular loop, the arcs of these big circles would
+Figure 13.8 appear as straight lines. Every point on the wire carrying
+Magnetic field lines of the field current would give rise to the magnetic field appearing as
+produced by a current-carrying straight lines at the center of the loop. By applying the right
+circular loop hand rule, it is easy to check that every section of the wire
+contributes to the magnetic field lines in the same direction
+within the loop.
+
+* This rule is also called Maxwell's corkscrew rute. If we consider ourselves driving a
+corkscrew tn the direction of the current, then the direction of the corkscrew ts the
+direction of the magnetic field.
+
+Science

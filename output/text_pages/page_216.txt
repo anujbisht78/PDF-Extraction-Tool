@@ -1,0 +1,65 @@
+The current I, throughR, = V/R,
+I,=12V/10Q = 1.2A.
+The current J,, throughR, = V/R,
+I, = 12 V/30 2 = O.4A.
+The total current in the circuit,
+
+I
+
+L+1,+1,
+(2.4+1.2+04)A
+=4A
+The total resistance R» is given by [Eq. (12.18)]
+1 1 1 1 1
+R, 5 10 30 3
+
+Thus, R, =3Q.
+
+Ifin Fig. 12.12, R, = 10, R,=40Q, R,=30 Q, R, =20Q, R, =60Q,
+and a 12 V battery is connected to the arrangement. Calculate
+(a) the total resistance in the circuit, and (b) the total current flowing
+in the circuit.
+
+Suppose we replace the parallel resistors R, and R, by an
+
+equivalent resistor of resistance, R*% Similarly we replace
+
+the parallel resistors R,, R, and R, by an equivalent single
+
+resistor of resistance R”. Then using Eq. (12.18), we have
+
+1/ R’=1/10+1/40 = 5/40; thatis R’ =8Q.
+
+Similarly, 1/R’ = 1/30+1/20+ 1/60 = 6/60;
+thatis, R’ =10Q.
+
+Thus, the total resistance, R= R’+ R”= 18Q.
+
+To calculate the current, we use Ohm’s law, and get
+
+T=V/R=12V/18 Q=0.67A.
+
+We have seen that in a series circuit the current is constant
+throughout the electric circuit. Thus it is obviously impracticable to
+connect an electric bulb and an electric heater in series, because they
+need currents of widely different values to operate properly (see Example
+12.3). Another major disadvantage of a series circuit is that when one
+component fails the circuit is broken and none of the components works.
+If you have used ‘fairy lights’ to decorate buildings on festivals, on
+marriage celebrations etc., you might have seen the electrician spending
+lot of time in trouble-locating and replacing the ‘dead’ bulb — each has
+to be tested to find which has fused or gone. On the other hand, a parallel
+circuit divides the current through the electrical gadgets. The total
+resistance in a parallel circuit is decreased as per Eq. (12.18). This is
+helpful particularly when each gadget has different resistance and
+requires different current to operate properly.
+
+Electricity
+
+Figure 12.12
+
+An electric circuit showing
+the combination of series
+and parallel resistors
+
+215

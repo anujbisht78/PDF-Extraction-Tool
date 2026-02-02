@@ -1,0 +1,68 @@
+Dobereiner’s triads
+
+Table 5.2
+Li Ca
+Na Sr
+K Ba
+
+80
+
+Cl
+
+Br
+
+I
+
+triad were written in the order of increasing atomic masses; the atomic
+mass of the middle element was roughly the average of the atomic masses
+of the other two elements.
+
+For example, take the triad consisting of lithium (Li), sodium (Na)
+and potassium (K) with the respective atomic masses 6.9, 23.0 and 39.0.
+What is the average of the atomic masses of Li and K? How does this
+compare with the atomic mass of Na?
+
+Given below (Table 5.1) are some groups of three elements. These
+elements are arranged downwards in order of increasing atomic masses.
+Can you find out which of these groups form Débereiner triads?
+
+Table 5.1
+
+Group A | Atomic Group B_ | Atomic Group C | Atomic
+element mass element mass elements mass
+N Ca Cl
+
+14.0 40.1 35. 5
+P 31.0 Sr 87.6 Br 79.9
+As 74.9 Ba 137.3 I 126.9
+
+You will find that groups B and C form Débereiner triads. Débereiner
+could identify only three triads from the elements known at that time
+(Table 5.2). Hence, this system of classification into triads was not found
+to be useful.
+
+Johann Wolfgang Débereiner studied as a
+pharmacist at Mtinchberg in Germany, and then
+studied chemistry at Strasbourg. Eventually he
+became a professor of chemistry and pharmacy
+at the University of Jena. Débereiner made the
+first observations on platinum as a catalyst and
+discovered similar triads of elements which led to
+the development of the Periodic Table of elements.
+
+5.1.2 Newlands’ Law of Octaves
+
+The attempts of Débereiner encouraged other chemists to correlate the
+properties of elements with their atomic masses. In 1866, John Newlands,
+an English scientist, arranged the then known elements in the order of
+increasing atomic masses. He started with the element having the lowest
+atomic mass (hydrogen) and ended at thorium which was the 56"
+element. He found that every eighth element had properties similar to
+that of the first. He compared this to the octaves found in music.
+Therefore, he called it the ‘Law of Octaves’. It is known as ‘Newlands’
+Law of Octaves’. In Newlands’ Octaves, the properties of lithium and
+sodium were found to be the same. Sodium is the eighth element after
+lithium. Similarly, beryllium and magnesium resemble each other. A
+part of the original form of Newlands’ Octaves is given in Table 5.3.
+
+Science

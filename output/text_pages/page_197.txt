@@ -1,0 +1,58 @@
+Figure 11.11
+
+11.6.2 Why is the colour of the clear Sky Blue?
+
+The molecules of air and other fine particles in the atmosphere have size
+smaller than the wavelength of visible light. These are more effective in
+scattering light of shorter wavelengths at the blue end than light of longer
+wavelengths at the red end. The red light has a wavelength about 1.8
+times greater than blue light. Thus, when sunlight passes through the
+atmosphere, the fine particles in air scatter the blue colour (shorter
+wavelengths) more strongly than red. The scattered blue light enters
+our eyes. If the earth had no atmosphere, there would not have been
+any scattering. Then, the sky would have looked dark. The sky appears
+dark to passengers flying at very high altitudes, as scattering is not
+prominent at such heights.
+
+You might have observed that ‘danger’ signal lights are red in colour.
+Do you know why? The red is least scattered by fog or smoke. Therefore,
+it can be seen in the same colour at a distance.
+
+11.6.3 Colour of the Sun at Sunrise and Sunset
+
+Have you seen the sky and the Sun at sunset or sunrise? Have you
+wondered as to why the Sun and the surrounding sky appear red? Let
+us do an activity to understand the blue colour of the sky and the reddish
+appearance of the Sun at the sunrise or sunset.
+
+Place a strong source (S) of white light at the focus of a converging
+lens (L,). This lens provides a parallel beam of light.
+
+Allow the light beam to pass through a transparent glass tank (T)
+containing clear water.
+
+Allow the beam of light to pass through a circular hole (c) made in
+a cardboard. Obtain a sharp image of the circular hole on a screen
+(MN) using a second converging lens (L,), as shown in Fig. 11.11.
+Dissolve about 200 g of sodium thiosulphate (hypo) in about 2 L of
+clean water taken in the tank. Add about 1 to 2 mL of concentrated
+sulphuric acid to the water. What do you observe?
+
+You will find fine microscopic sulphur particles precipitating in about
+2 to 3 minutes. As the sulphur particles begin to form, you can observe
+the blue light from the three sides
+of the glass tank. This is due to
+scattering of short wavelengths by
+minute colloidal sulphur
+particles. Observe the colour of
+the transmitted light from the
+fourth side of the glass tank facing
+the circular hole. It is interesting
+to observe at first the orange red
+colour and then bright crimson
+
+An arrangement for observing scattering of light in colloidal solution red colour on the screen.
+
+196
+
+Science

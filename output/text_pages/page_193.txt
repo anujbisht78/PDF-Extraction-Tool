@@ -1,0 +1,53 @@
+192
+
+Fix a sheet of white paper on a drawing board using drawing pins.
+Place a glass prism on it in such a way that it rests on its triangular
+base. Trace the outline of the prism using a pencil.
+
+Draw a straight line PE inclined to one of the refracting surfaces,
+say AB, of the prism.
+
+Fix two pins, say at points P and Q, on the line PE as shown in
+Fig. 11.4.
+
+Look for the images of the pins, fixed at P and Q, through the
+other face AC.
+
+Fix two more pins, at points R and S, such that the pins at R and
+S and the images of the pins at P and Q lie on the same straight
+line.
+
+Remove the pins and the glass prism.
+
+The line PE meets the boundary of the prism at point E
+(see Fig. 11.4). Similarly, join and produce the points R and S. Let
+these lines meet the boundary of the prism at E and F, respectively.
+Join E and F.
+
+Draw perpendiculars to the refracting surfaces AB and AC of the
+prism at points E and F, respectively.
+
+Mark the angle of incidence (i), the angle of refraction (Zr) and
+the angle of emergence (Ze) as shown in Fig. 11.4.
+
+P S)
+PE — Incident ray Zi - Angle of incidence
+EF - Refracted ray Zr — Angle of refraction
+FS — Emergent ray Ze — Angle of emergence
+ZA — Angle of the prism ZD - Angle of deviation
+
+Figure 11.4 Refraction of light through a triangular glass prism
+
+Here PE is the incident ray, EF is the refracted ray and FS is the
+emergent ray. You may note that a ray of light is entering from air to
+glass at the first surface AB. The light ray on refraction has bent towards
+the normal. At the second surface AC, the light ray has entered from
+glass to air. Hence it has bent away from normal. Compare the angle of
+incidence and the angle of refraction at each refracting surface of the
+prism. Is this similar to the kind of bending that occurs in a glass slab?
+The peculiar shape of the prism makes the emergent ray bend at an
+angle to the direction of the incident ray. This angle is called the angle of
+deviation. In this case 7D is the angle of deviation. Mark the angle of
+deviation in the above activity and measure it.
+
+Science

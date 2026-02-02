@@ -1,0 +1,46 @@
+212
+
+On applying Ohm’s law to the three resistors separately, we further
+have
+
+and
+
+From Eq. (12.11),
+
+or
+
+We can conclude that when several resistors are joined in series, the
+resistance of the combination R, equals the sum of their individual
+resistances, R,, R,, R,, and is thus greater than any individual resistance.
+
+An electric lamp, whose resistance is 20 Q, and a conductor of 4 Q
+resistance are connected to a 6 V battery (Fig. 12.9). Calculate (a) the
+total resistance of the circuit, (b) the current through the circuit, and
+(c) the potential difference across the electric lamp and conductor.
+
+HHH-——>_(),—
+
+Figure 12.9 An electric lamp connected in series with
+a resistor of 4Q toa6V battery
+
+The resistance of electric lamp, R, = 20 Q,
+
+The resistance of the conductor connected in series, R,=4 Q.
+Then the total resistance in the circuit
+
+R =R,+R,
+
+R. = 200+40=240.
+
+The total potential difference across the two terminals of the battery
+V=6V.
+
+Now by Ohm’s law, the current through the circuit is given by
+
+I = V/R,
+
+6V/24Q0
+
+0.25 A.
+
+Science

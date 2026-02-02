@@ -1,0 +1,62 @@
+Height of the object h = + 2.0cm;
+Focal length f + 10cm;
+object-distance u -15 cm;
+
+Image-distance v
+Height of the image h’ =
+
+I oul
+ae a’)
+
+1
+or, =
+D
+
+1 1.1 1.1
+
+pv (-15) 10. 15 10
+
+1 -2+3_ 1
+
+v 380 30
+or, v=+ 30cm
+The positive sign of v shows that the image is formed at a distance of
+30 cm on the other side of the optical centre. The image is real and
+inverted.
+
+’
+
+Magnification m= A
+
+v
+u
+
+or, h’ =h(v/w
+
+Height of the image, h’ = (2.0) (+30/-15) =- 4.0 em
+Magnification m= v/u
+
+_+30cm _
+
+~ -15cem —
+
+or, 7 -
+
+The negative signs of mand h’ show that the image is inverted and
+real. It is formed below the principal axis. Thus, a real, inverted image,
+4 cm tall, is formed at a distance of 30 cm on the other side of the
+lens. The image is two times enlarged.
+
+10.3.8 Power of a Lens
+
+You have already learnt that the ability of a lens to converge or diverge
+light rays depends on its focal length. For example, a convex lens of
+short focal length bends the light rays through large angles, by focussing
+them closer to the optical centre. Similarly, concave lens of very short
+focal length causes higher divergence than the one with longer focal
+length. The degree of convergence or divergence of light rays achieved
+by a lens is expressed in terms of its power. The power of a lens is defined
+as the reciprocal of its focal length. It is represented by the letter P. The
+power P of a lens of focal length fis given by
+
+Light - Reflection and Refraction

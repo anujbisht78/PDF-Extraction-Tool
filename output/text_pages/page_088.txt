@@ -1,0 +1,58 @@
+As we can see, the Modern Periodic Table takes care of three
+limitations of Mendléev’s Periodic Table. The anomalous position of
+hydrogen can be discussed after we see what are the bases on which the
+position of an element in the Modern Periodic Table depends.
+
+5.3.1 Position of Elements in the Modern Periodic Table
+
+The Modern Periodic Table has 18 vertical columns known as ‘groups’
+and 7 horizontal rows known as ‘periods’. Let us see what decides the
+placing of an element in a certain group and period.
+
+Look at the group 1 of the Modern Periodic Table, and name the
+elements present in it.
+
+Write down the electronic configuration of the first three elements
+of group 1.
+
+What similarity do you find in their electronic configurations?
+How many valence electrons are present in these three elements?
+
+You will find that all these elements contain the same number of
+valence electrons. Similarly, you will find that the elements present in
+any one group have the same number of valence electrons. For example,
+elements fluorine (F) and chlorine (Cl), belong to group 17, how many
+electrons do fluorine and chlorine have in their outermost shells? Hence,
+we can say that groups in the Periodic Table signify an identical outer-
+shell electronic configuration. On the other hand, the number of shells
+increases as we go down the group.
+
+There is an anomaly when it comes to the position of hydrogen
+because it can be placed either in group 1 or group 17 in the first period.
+Can you say why?
+
+If you look at the long form of the Periodic Table, you will find that
+the elements Li, Be, B, C, N, O, F, and Ne are present in the second
+period. Write down their electronic configuration.
+
+Do these elements also contain the same number of valence
+electrons?
+
+Do they contain the same number of shells?
+
+You will find that these elements do not have the same number of
+valence electrons, but they contain the same number of shells. You also
+observe that the number of valence shell electrons increases by one unit,
+as the atomic number increases by one unit on moving from left to right
+in a period.
+
+Or we can say that atoms of different elements with the same number
+of occupied shells are placed in the same period. Na, Mg, Al, Si, P, S, Cl
+and Ar belong to the third period of the Modern Periodic Table, since the
+electrons in the atoms of these elements are filled in K, Land M shells.
+Write the electronic configuration of these elements and confirm the above
+statement. Each period marks a new electronic shell getting filled.
+
+Periodic Classification of Elements
+
+87

@@ -1,0 +1,72 @@
+The bulb will start glowing in the case of acids, as shown in Fig. 2.3.
+But you will observe that glucose and alcohol solutions do not conduct
+electricity. Glowing of the bulb indicates that there is a flow of electric
+current through the solution. The electric current is carried through the
+solution by ions.
+
+Since the cation present in acids is H*, this suggests that acids
+produce hydrogen ions, H*(aq), in solution, which are responsible for
+their acidic properties.
+
+Repeat the same Activity using alkalis such as sodium hydroxide,
+calcium hydroxide, etc. What can you conclude from the results of this
+Activity?
+
+2.2.1 What Happens to an Acid or a Base in a Water Solution?
+
+Do acids produce ions only in aqueous solution? Let us test this.
+
+Take about 1g solid NaCl in a clean and
+dry test tube and set up the apparatus as
+shown in Fig. 2.4.
+
+Add some concentrated sulphuric acid to
+
+Conical flask
+containing
+concentrated
+
+H,So,
+the test tube.
+What do you observe? Is there a gas coming Test tube
+out of the delivery tube? Sodium od
+Test the gas evolved successively with dry chloride
+
+and wet blue litmus paper.
+
+In which case does the litmus paper change
+colour?
+
+On the basis of the above Activity, what do
+you infer about the acidic character of:
+
+(i) dry HCl gas
+
+(ii) HCl solution?
+
+Moist litmus
+paper |
+Delivery tube
+
+Guard tube containing
+calcium chloride
+
+Figure 2.4 Preparation of HCl gas
+
+Note to teachers: If the climate is very humid, you will have to pass the gas produced
+through a guard tube (drying tube) containing calcium chloride to dry the gas.
+
+This experiment suggests that hydrogen ions in HCl are produced
+in the presence of water. The separation of H* ion from HCl molecules
+cannot occur in the absence of water.
+
+Hydrogen ions cannot exist alone, but they exist after combining
+with water molecules. Thus hydrogen ions must always be shown as
+H*(aq) or hydronium ion (H,O%).
+
+We have seen that acids give H,O* or H*(aq) ion in water. Let us see
+what happens when a base is dissolved in water.
+
+Acids, Bases and Salts
+
+23

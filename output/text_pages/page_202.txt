@@ -1,0 +1,50 @@
+‘Flow’ of charges inside a wire
+How does a metal conduct electricity? You would think that a low-energy electron
+would have great difficulty passing through a solid conductor. Inside the solid, the
+atoms are packed together with very little spacing between them. But it turns out
+that the electrons are able to ‘travel’ through a perfect solid crystal smoothly and
+easily, almost as if they were in a vacuum. The ‘motion’ of electrons in a conductor,
+however, is very different from that of charges in empty space. When a steady current
+flows through a conductor, the electrons in it move with a certain average ‘drift speed’.
+One can calculate this drift speed of electrons for a typical copper wire carrying a
+small current, and it is found to be actually very small, of the order of 1 mm s*. How
+is it then that an electric bulb lights up as soon as we turn the switch on? It cannot be
+that a current starts only when an electron from one terminal of the electric supply
+physically reaches the other terminal through the bulb, because the physical drift of
+electrons in the conducting wires is a very slow process. The exact mechanism of the
+current flow, which takes place with a speed close to the speed of light, is fascinating,
+but it is beyond the scope of this book. Do you feel like probing this question at an
+
+advanced level?
+
+12.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE
+
+What makes the electric charge to flow? Let us consider the analogy of
+flow of water. Charges do not flow in a copper wire by themselves, just as
+water in a perfectly horizontal tube does not flow. If one end of the tube
+is connected to a tank of water kept at a higher level, such that there is a
+pressure difference between the two ends of the tube, water flows out of
+the other end of the tube. For flow of charges in a conducting metallic
+wire, the gravity, of course, has no role to play; the electrons move only
+if there is a difference of electric pressure — called the potential difference —
+along the conductor. This difference of potential may be produced by a
+battery, consisting of one or more electric cells. The chemical action within
+a cell generates the potential difference across the terminals of the cell,
+even when no current is drawn from it. When the cell is connected to a
+conducting circuit element, the potential difference sets the charges in
+motion in the conductor and produces an electric current. In order to
+maintain the current in a given electric circuit, the cell has to expend its
+chemical energy stored in it.
+
+We define the electric potential difference between two points in an
+electric circuit carrying some current as the work done to move a unit
+charge from one point to the other —
+
+Potential difference (V) between two points = Work done (W)/Charge (Q)
+
+The SI unit of electric potential difference is volt (V), named after
+Alessandro Volta (1745-1827), an Italian physicist. One volt is the
+
+Electricity
+
+201

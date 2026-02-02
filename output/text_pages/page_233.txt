@@ -1,0 +1,68 @@
+2. In Activity 13.7, how do we think the displacement of rod AB will be
+affected if (i) current in rod AB is increased; (ii) a stronger horse-shoe
+magnet is used; and (iii) length of the rod AB is increased?
+
+3. A positively-charged particle (alpha-particle) projected towards west is
+deflected towards north by a magnetic field. The direction of magnetic
+
+field is
+
+(a) towards south (b) towards east
+
+(c) downward
+
+(d) upward
+
+Magnetism in medicine
+
+An electric current always produces a magnetic field. Even weak ion currents that
+travel along the nerve cells in our body produce magnetic fields. When we touch
+something, our nerves carry an electric impulse to the muscles we need to use. This
+
+impulse produces a temporary magnetic field. These fields are very weak and are about
+one-billionth of the earth’s magnetic field. Two main organs in the human body where
+the magnetic field produced is significant, are the heart and the brain. The magnetic field
+inside the body forms the basis of obtaining the images of different body parts. This is
+done using a technique called Magnetic Resonance Imaging (MRI). Analysis of these
+images helps in medical diagnosis. Magnetism has, thus, got important uses in medicine.
+
+Split rings
+(P and Q)
+
+Figure 13.15
+A simple electric motor
+
+13.4 ELECTRIC MOTOR
+
+An electric motor is a rotating device that converts electrical energy to
+mechanical energy. Electric motor is used as an important component
+in electric fans, refrigerators, mixers, washing machines, computers, MP3
+players etc. Do you know how an electric motor works?
+
+An electric motor, as shown in Fig. 13.15, consists of a rectangular
+coil ABCD of insulated copper wire. The coil is placed between the two
+poles of a magnetic field such that the arm AB and CD are perpendicular
+
+Brushes
+(X and Y)
+
+to the direction of the magnetic field. The
+ends of the coil are connected to the two
+halves P and Q of a split ring. The inner sides
+of these halves are insulated and attached
+to an axle. The external conducting edges of
+P and Q touch two conducting stationary
+brushes X and Y, respectively, as shown in
+the Fig. 13.15.
+
+Current in the coil ABCD enters from the
+source battery through conducting brush
+xX and flows back to the battery through
+brush Y. Notice that the current in arm AB
+of the coil flows from A to B. In arm CD it
+flows from C to D, that is, opposite to the
+direction of current through arm AB. On
+applying Fleming’s left hand rule for the
+direction of force on a current-carrying
+
+Science

@@ -1,0 +1,64 @@
+88
+
+How many elements are there in the first, second, third and fourth
+periods?
+
+We can explain the number of elements in these periods based on
+how electrons are filled into various shells. You will study the details of
+this in higher classes. Recall that the maximum number of electrons
+that can be accommodated in a shell depends on the formula 2n? where
+‘n’ is the number of the given shell from the nucleus.
+
+For example,
+
+KShell - 2 x (1)? =2, hence the first period has 2 elements.
+
+LShell - 2 x (2)? =8, hence the second period has 8 elements.
+
+MShell - 2 x (8)? = 18, but the outermost shell can have only
+8 electrons, so the third period also has only 8 elements.
+
+The position of an element in the Periodic Table tells us about its
+chemical reactivity. As you have learnt, the valence electrons determine
+the kind and number of bonds formed by an element. Can you now say
+why Mendeléev’s choice of formulae of compounds as the basis for
+deciding the position of an element in his Table was a good one? How
+would this lead to elements with similar chemical properties being placed
+in the same group?
+
+5.3.2 Trends in the Modern Periodic Table
+
+Valency : As you know, the valency of an element is determined by the
+number of valence electrons present in the outermost shell of its atom.
+
+How do you calculate the valency of an element from its electronic
+configuration?
+
+What is the valency of magnesium with atomic number 12 and
+sulphur with atomic number 16?
+
+Similarly find out the valencies of the first twenty elements.
+How does the valency vary in a period on going from left to right?
+How does the valency vary in going down a group?
+
+Atomic size: The term atomic size refers to the radius of an atom. The
+atomic size may be visualised as the distance between the centre of the
+nucleus and the outermost shell of an isolated atom. The atomic radius
+of hydrogen atom is 37 pm (picometre, 1 pm = 1071?m).
+
+Let us study the variation of atomic size in a group and in a period.
+
+Atomic radii of the elements of the second period are given below:
+Period II elements : B Be O N Li C
+Atomic radius (pm) : 88 111 66 74 152 77
+Arrange them in decreasing order of their atomic radii.
+
+Are the elements now arranged in the pattern of a period in the
+Periodic Table?
+
+Which elements have the largest and the smallest atoms?
+
+How does the atomic radius change as you go from left to right in
+a period?
+
+Science

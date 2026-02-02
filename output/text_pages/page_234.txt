@@ -1,0 +1,51 @@
+conductor in a magnetic field (see Fig. 13.13). We find that the force
+acting on arm AB pushes it downwards while the force acting on arm
+CD pushes it upwards. Thus the coil and the axle O, mounted free to
+turn about an axis, rotate anti-clockwise. At half rotation, Q makes
+contact with the brush X and P with brush Y. Therefore the current in
+the coil gets reversed and flows along the path DCBA. A device that
+reverses the direction of flow of current through a circuit is called a
+commutator. In electric motors, the split ring acts as a commutator. The
+reversal of current also reverses the direction of force acting on the two
+arms AB and CD. Thus the arm AB of the coil that was earlier pushed
+down is now pushed up and the arm CD previously pushed up is now
+pushed down. Therefore the coil and the axle rotate half.a turn more in
+the same direction. The reversing of the current is repeated at each half
+rotation, giving rise to a continuous rotation of the coil and to the axle.
+
+The commercial motors use (i) an electromagnet in place of permanent
+magnet; (ii) large number of turns of the conducting wire in the current-
+carrying coil; and (iii) a soft iron core on which the coil is wound. The
+soft iron core, on which the coil is wound, plus the coils, is called an
+armature. This enhances the power of the motor.
+
+State Fleming’s left-hand rule.
+
+What is the principle of an electric motor?
+
+What is the role of the split ring in an electric motor?
+
+13.5 ELECTROMAGNETIC INDUCTION
+
+We have studied that when a current-carrying conductor is placed ina
+magnetic field such that the direction of current is perpendicular to the
+magnetic field, it experiences a force. This force causes the conductor to
+move. Now let us imagine a situation in which a conductor is moving
+inside a magnetic field or a magnetic field is changing around a_fixed
+conductor. What will happen? This was first studied by English physicist
+Michael Faraday. In 1831, Faraday made an important breakthrough
+by discovering how a moving magnet can be used to generate electric
+currents. To observe this effect, let us perform the following activity.
+
+Activity 13.8
+
+Take a coil of wire AB having a large number of turns.
+
+Connect the ends of the coil to a galvanometer as shown in
+Fig. 13.16.
+
+Take a strong bar magnet and move its north pole towards the
+end B of the coil. Do you find any change in the galvuanometer
+needle?
+
+Magnetic Effects of Electric Current

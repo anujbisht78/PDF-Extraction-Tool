@@ -1,0 +1,52 @@
+Table 5.3 Newlands’ Octaves
+
+H Li Be B C N O
+
+F Na Mg Al Si P SS)
+Cl K Ca Cr Ti Mn Fe
+Co and Ni Cu Zn Y In As Se
+
+Are you familiar with musical notes?
+
+In the Indian system of music, there are seven musical notes in a scale — sa, re, ga, ma, pa,
+da, ni. In the west, they use the notations — do, re, mi, fa, so, la, ti: The notes in a scale are
+separated by whole and half-step frequency intervals of tones and semitones. A musician
+uses these notes for composing the music of a song. Naturally, there must be some repetition
+ofnotes. Every eighth note is similar to the first one and it is the first note of the next scale.
+
+Do You Know?
+
+It was found that the Law of Octaves was applicable only upto
+calcium, as after calcium every eighth element did not possess
+properties similar to that of the first.
+= Itwas assumed by Newlands that only 56 elements existed in nature
+and no more elements would be discovered in the future. But, later
+on, several new elements were discovered, whose properties did not
+fit into the Law of Octaves.
+= Inorder to fit elements into his Table, Newlands adjusted two elements
+in the same slot, but also put some unlike elements under the same
+note. Can you find examples of these from Table 5.3? Note that cobalt
+and nickel are in the same slot and these are placed in the same
+column as fluorine, chlorine and bromine which have very different
+properties than these elements. Iron, which resembles cobalt and
+nickel in properties, has been placed far away from these elements.
+
+Thus, Newlands’ Law of Octaves worked well with lighter elements only.
+
+Q U ES TION $
+
+Did Débereiner’s triads also exist in the columns of Newlands’ Octaves?
+
+Compare and find out.
+
+What were the limitations of Débereiner’s classification?
+What were the limitations of Newlands’ Law of Octaves?
+
+5.2 MAKING ORDER OUT OF CHAOS — MENDELEEV’S
+PERIODIC TABLE
+
+Even after the rejection of Newlands’ Law of Octaves, many scientists
+continued to search for a pattern that correlated the properties of elements
+with their atomic masses.
+
+Periodic Classification of Elements 81

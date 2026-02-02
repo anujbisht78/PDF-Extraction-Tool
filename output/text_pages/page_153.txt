@@ -1,0 +1,55 @@
+Figure 9.8
+Homologous organs
+
+152
+
+Some basic characteristics will be shared by most organisms. The
+cell is the basic unit of life in all organisms. The characteristics in the
+next level of classification would be shared by most, but not all organisms.
+Abasic characteristic of cell design that differs among different organisms
+is whether the cell has a nucleus. Bacterial cells do not, while the cells of
+most other organisms do. Among organisms with nucleated cells, which
+ones are unicellular and which ones multi-cellular? That property marks
+a very basic difference in body design, because of specialisation of cell
+types and tissues. Among multi-cellular organisms, whether they can
+undertake photosynthesis or not will provide the next level of
+classification. Among the multi-cellular organisms that cannot do
+photosynthesis, whether the skeleton is inside the body or around the
+body will mark another fundamental design difference. We can see that,
+even in these few questions that we have asked, a hierarchy is developing
+that allows us to make classification groups.
+
+The more characteristics two species will have in common, the more
+closely they are related. And the more closely they are related, the more
+recently they will have had a common ancestor. An example will help. A
+brother and a sister are closely related. They have common ancestors in
+the first generation before them, namely, their parents. A girl and her
+first cousin are also related, but less than the girl and her brother. This
+is because cousins have common ancestors, their grandparents, in the
+second generation before them, not in the first one. We can now appreciate
+that classification of species is in fact a reflection of their evolutionary
+relationship.
+
+We can thus build up small groups of species with recent common
+ancestors, then super-groups of these groups with more distant common
+ancestors, and so on. In theory, we can keep going backwards like this
+until we come to the notion of a single species at the very beginning of
+evolutionary time. If that is the case, then at some point in the history of
+the earth, non-living material must have given rise to life. There are many
+theories about how this might have happened. It would be interesting to
+come up with theories of our own!
+
+9.5.1 Tracing Evolutionary Relationships
+
+When we try to follow evolutionary relationships, how do we identify
+characteristics as common? These characteristics in different organisms
+would be similar because they are inherited from a common ancestor.
+As an example, consider the fact that mammals have four limbs, as do
+birds, reptiles and amphibians (Fig. 9.8). The basic structure of the limbs
+is similar though it has been modified to perform different functions in
+various vertebrates. Such a homologous characteristic helps to identify
+an evolutionary relationship between apparently different species.
+However, all similarities simply in organ shape are not necessarily
+because of common ancestry. What would we think about the wings of
+
+Science

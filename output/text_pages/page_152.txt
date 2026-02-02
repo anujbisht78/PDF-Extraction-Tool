@@ -1,0 +1,56 @@
+happen between populations that are partly, but not completely
+separated. If, however, between two such sub-populations a large river
+comes into existence, the two populations will be further isolated. The
+levels of gene flow between them will decrease even further.
+
+Over generations, genetic drift will accumulate different changes in
+each sub-population. Also, natural selection may also operate differently
+in these different geographic locations. Thus, for example, in the territory
+of one sub-population, crows are eliminated by eagles. But this does
+not happen for the other sub-population, where crow numbers are very
+high. As a result, the green variation will not be selected at the first site,
+while it will be strongly selected at the second.
+
+Together, the processes of genetic drift and natural selection will result
+in these two isolated sub-populations of beetles becoming more and
+more different from each other. Eventually, members of these two groups
+will be incapable of reproducing with each other even if they happen to
+meet.
+
+There can be a number of ways by which this can happen. If the
+DNA changes are severe enough, such as a change in the number of
+chromosomes, eventually the germ cells of the two groups cannot fuse
+with each other. Or a new variation emerges in which green females will
+not mate with red males, but only with green males. This allows very
+strong natural selection for greenness. Now, if such a green female beetle
+meets a red male from the other group, her behaviour will ensure that
+there is no reproduction between them. Effectively, new species of beetles
+are being generated.
+
+Q U ES TION S$
+
+What factors could lead to the rise of a new species?
+
+Will geographical isolation be a major factor in the speciation of a self-
+pollinating plant species? Why or why not?
+
+Will geographical isolation be a major factor in the speciation of an
+organism that reproduces asexually? Why or why not?
+
+9.5 EVOLUTION AND CLASSIFICATION
+
+Based on these principles, we can work out the evolutionary relationships
+of the species we see around us. It is a sort of going backwards in time.
+We can do this by identifying hierarchies of characteristics between
+species. In order to understand this process, let us think back to our
+discussion on the classification of organisms in Class IX.
+
+Similarities among organisms will allow us to group them and then
+study the groups. For this, which characteristics decide more
+fundamental differences among organisms, and which ones decide less
+basic differences? What is meant by ‘characteristics’, anyway?
+Characteristics are details of appearance or behaviour; in other words, a
+particular form or a particular function. That we have four limbs is thus a
+characteristic. That plants can do photosynthesis is also a characteristic.
+
+Heredity and Evolution 151

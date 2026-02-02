@@ -1,0 +1,53 @@
+Nuclear power reactors located at Tarapur (Maharashtra), Rana Pratap Sagar
+(Rajasthan), Kalpakkam (Tamil Nadu), Narora (UP), Kakrapar (Gujarat) and Kaiga
+(Karnataka) have the installed capacity of less than 3% of the total electricity generation
+capacity of our country. However, many industrialised countries are meeting more
+than 30% of their electrical power needs from nuclear reactors.
+
+The major hazard of nuclear power generation is the storage and
+disposal of spent or used fuels — the uranium still decaying into harmful
+subatomic particles (radiations). Improper nuclear-waste storage and
+disposal result in environmental contamination. Further, there is a risk
+of accidental leakage of nuclear radiation. The high cost of installation
+of a nuclear power plant, high risk of environmental contamination and
+limited availability of uranium makes large-scale use of nuclear energy
+prohibitive.
+
+Nuclear energy was first used_for destructive purposes before nuclear
+power stations were designed. The fundamental physics of the fission
+chain reaction in a nuclear weapon is similar to the physics of a controlled
+nuclear reactor, but the two types of device are engineered quite
+
+differently.
+
+Nuclear fusion
+
+Currently all commercial nuclear reactors are based on nuclear fission. But there is
+another possibility of nuclear energy generation by a safer process called nuclear
+fusion. Fusion means joining lighter nuclei to make a heavier nucleus, most commonly
+hydrogen or hydrogen isotopes to create helium, such as
+
+2H + 7H > He (+ n)
+It releases a tremendous amount of energy, according to the Einstein equation, as
+the mass of the product is little less than the sum of the masses of the original individual
+nuclei.
+Such nuclear fusion reactions are the source of energy in the Sun and other stars. It
+takes considerable energy to force the nuclei to fuse. The conditions needed _for this
+process are extreme — millions of degrees of temperature and millions of pascals of
+pressure.
+The hydrogen bomb is based on thermonuclear fusion reaction. A nuclear bomb based.
+on the fission of uranium or plutonium is placed at the core of the hydrogen bomb.
+This nuclear bomb is embedded in a substance which contains deuterium and lithium.
+When the nuclear bomb (based on_fission) is detonated, the temperature of this substance
+is raised to 10’ K in a few microseconds. The high temperature generates sufficient
+energy for the light nuclei to fuse and a devastating amount of energy is released.
+
+Discuss in class the question of what is the ultimate source of
+energy for bio-mass, wind and ocean thermal energy.
+
+Is geothermal energy and nuclear energy different in this respect?
+Why?
+
+Where would you place hydro electricity and wave energy?
+
+Science

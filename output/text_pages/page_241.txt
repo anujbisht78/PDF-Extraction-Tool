@@ -1,0 +1,93 @@
+Which of the following correctly describes the magnetic field near a long
+straight wire?
+
+(a)
+(b)
+(c)
+(d)
+
+The field consists of straight lines perpendicular to the wire.
+The field consists of straight lines parallel to the wire.
+The field consists of radial lines originating from the wire.
+
+The field consists of concentric circles centred on the wire.
+
+The phenomenon of electromagnetic induction is
+
+(a)
+(b)
+
+(c)
+
+(d)
+
+the process of charging a body.
+
+the process of generating magnetic field due to a current passing
+through a coil.
+
+producing induced current in a coil due to relative motion between a
+magnet and the coil.
+
+the process of rotating a coil of an electric motor.
+
+The device used for producing electric current is called a
+
+(a)
+(b)
+(c)
+(d)
+
+generator.
+galvanometer.
+ammeter.
+
+motor.
+
+The essential difference between an AC generator and a DC generator is that
+
+(a)
+
+(b)
+(c)
+(d)
+
+AC generator has an electromagnet while a DC generator has
+permanent magnet.
+
+DC generator will generate a higher voltage.
+AC generator will generate a higher voltage.
+AC generator has slip rings while the DC generator has a commutator.
+
+At the time of short circuit, the current in the circuit
+
+(a)
+(b)
+(c)
+(d)
+
+reduces substantially.
+does not change.
+increases heavily.
+
+vary continuously.
+
+State whether the following statements are true or false.
+
+(a)
+(b)
+(c)
+
+(d)
+
+An electric motor converts mechanical energy into electrical energy.
+An electric generator works on the principle of electromagnetic induction.
+
+The field at the centre of a long circular coil carrying current will be
+parallel straight lines.
+
+A wire with a green insulation is usually the live wire of an electric supply.
+
+List three sources of magnetic fields.
+
+Science

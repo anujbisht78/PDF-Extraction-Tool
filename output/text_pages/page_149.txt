@@ -1,0 +1,55 @@
+148
+
+progeny beetles are green. Crows cannot see green-coloured beetles on
+the green leaves of the bushes, and therefore cannot eat them. What
+happens then? The progeny of green beetles is not eaten, while the
+progeny of red beetles continues to be eaten. As a result, there are more
+and more green beetles than red ones in the beetle population.
+
+In a second situation, again, a colour variation arises during
+reproduction, but now it results in a beetle that is blue in colour instead
+of red. This beetle can also pass the colour on to its progeny, so that all
+its progeny beetles are blue. Crows can see blue-coloured beetles in the
+green leaves of the bushes as well as they can see red ones, and therefore
+can eat them. What happens initially? In the population, as it expands,
+there are a few blue beetles, but most are red. But at this point, an
+elephant comes by, and stamps on the bushes where the beetles live.
+This kills most of the beetles. By chance, the few beetles that have survived
+are mostly blue. The beetle population slowly expands again, but now,
+the beetles in the population are mostly blue.
+
+It is obvious that in both situations, what started out as a rare variation
+came to be a common characteristic in the population. In other words,
+the frequency of an inherited trait changed over generations. Since genes
+control traits, we can say that the frequency of certain genes in a
+population changed over generations. This is the essence of the idea of
+evolution.
+
+But there are interesting differences, too, in the two situations. In the
+first case, the variation became common because it gave a survival
+advantage. In other words, it was naturally selected. We can see that the
+natural selection is exerted by the crows. The more crows there are, the
+more red beetles would be eaten, and the more the proportion of green
+beetles in the population would be. Thus, natural selection is directing
+evolution in the beetle population. It results in adaptations in the beetle
+population to fit their environment better.
+
+In the second situation, the colour change gave no survival advantage.
+Instead, it was simply a matter of accidental survival of beetles of one
+colour that changed the common characteristic of the resultant
+population. The elephant would not have caused such major havoc in
+the beetle population if the beetle population had been very large. So,
+accidents in small populations can change the frequency of some genes
+in a population, even if they give no survival advantage. This is the notion
+of genetic drift, which provides diversity without any adaptations.
+
+Now consider a third situation. In this, as the beetle population begins
+to expand, the bushes start suffering from a plant disease. The amount
+of leaf material for the beetles is reduced. The beetles are poorly nourished
+as a result. The average weight of adult beetles decreases from what it
+used to be when leaves were plentiful, but there is no genetic change
+occurring. After a few years and a few beetle generations of such scarcity,
+the plant disease is eliminated. There is a lot of leaf food. At this time,
+what would we expect the weight of the beetles to be?
+
+Science

@@ -1,0 +1,54 @@
+This activity demonstrates the effect of soap in cleaning. Most dirt is
+oily in nature and as you know, oil does not dissolve in water. The
+molecules of soap are sodium or potassium salts of long-chain carboxylic
+acids. The ionic-end of soap dissolves in water while the carbon chain
+dissolves in oil. The soap molecules, thus form structures called micelles
+(see Fig. 4.12) where one end of the molecules is towards the oil droplet
+while the ionic-end faces outside. This forms an emulsion in water. The
+soap micelle thus helps in dissolving the dirt in water and we can wash
+our clothes clean (Fig. 4.13).
+
+Can you draw the structure of the micelle that would be formed if
+you dissolve soap in a hydrocarbon?
+
+Micelles
+Soaps are molecules in which the two ends have differing properties, one is hydrophilic,
+that is, it dissolves in water, while the other end is hydrophobic, that is, it dissolves in
+hydrocarbons. When soap is at the surface of water, the hydrophobic ‘tail’ of soap will
+not be soluble in water and the soap will align along the surface of water with the
+ionic end in water and the hydrocarbon ‘tail’ protruding out of water. Inside water,
+
+Hydrophilic end Hydrophobic end
+~~, -_—
+o~ YYYYYYS Soap molecule
+
+Hydrophilic end
+Hydrophobic end
+
+Ny)
+
+AS \ 7?
+Va wy 8
+Ca) - -
+=>
+a these molecules have a unique orientation that keeps
+the hydrocarbon portion out of the water. This is
+=) achieved by forming clusters of molecules in which
+-_ eo the hydrophobic tails are in the interior of the cluster
+and the ionic ends are on the surface of the cluster.
+This formation is called a micelle. Soap in the form of
+go 3 micelle is able to clean, since the oily dirt will be
+an S collected in the centre of the micelle. The micelles stay
+™ in solution as a colloid and will not come together to
+= precipitate because of ion-ion repulsion. Thus, the
+2 =_ X
+
+dirt suspended in the micelles is also easily rinsed
+
+fo away. The soap micelles are large enough to scatter
+
+light. Hence a soap solution appears cloudy.
+
+Figure 4.13 Effect of soap in cleaning
+
+Carbon and its Compounds 75

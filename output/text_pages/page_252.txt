@@ -1,0 +1,55 @@
+Ocean Thermal Energy
+The water at the surface of the sea or ocean is heated by the Sun while
+the water in deeper sections is relatively cold. This difference in
+temperature is exploited to obtain energy in ocean-thermal-energy
+conversion plants. These plants can operate if the temperature difference
+between the water at the surface and water at depths up to 2 km is
+293 K (20°C) or more. The warm surface-water is used to boil a volatile
+liquid like ammonia. The vapours of the liquid are then used to run the
+turbine of generator. The cold water from the depth of the ocean is
+pumped up and condense vapour again to liquid.
+
+The energy potential from the sea (tidal energy, wave energy and
+ocean thermal energy) is quite large, but efficient commercial exploitation
+is difficult.
+
+14.3.3 Geothermal Energy
+
+Due to geological changes, molten rocks formed in the deeper hot regions
+of earth’s crust are pushed upward and trapped in certain regions called
+‘hot spots’. When underground water comes in contact with the hot spot,
+steam is generated. Sometimes hot water from that region finds outlets
+at the surface. Such outlets are known as hot springs. The steam trapped
+in rocks is routed through a pipe to a turbine and used to generate
+electricity. The cost of production would not be much, but there are
+very few commercially viable sites where such energy can be exploited.
+There are number of power plants based on geothermal energy
+operational in New Zealand and United States of America.
+
+14.3.4 Nuclear Energy
+
+How is nuclear energy generated? In a process called nuclear fission,
+the nucleus of a heavy atom (such as uranium, plutonium or thorium),
+when bombarded with low-energy neutrons, can be split apart into lighter
+nuclei. When this is done, a tremendous amount of energy is released if
+the mass of the original nucleus is just a little more than the sum of the
+masses of the individual products. The fission of an atom of uranium,
+Jor example, produces 10 million times the energy produced by the
+combustion of an atom of carbon from coal. In a nuclear reactor designed
+for electric power generation, such nuclear ‘fuel’ can be part of a self-
+sustaining fission chain reaction that releases energy at a controlled
+rate. The released energy can be used to produce steam and further
+generate electricity.
+
+Ina nuclear fission, the difference in mass, Am, between the original nucleus and the
+product nuclei gets converted to energy Eat a rate governed by the famous equation,
+
+E=AmcC,
+
+Jirst derived by Albert Einstein in 1905, where c is the speed of light in vacuum. In
+nuclear science, energy is often expressed in units of electron volts (eV): 1 eV = 1.602
+x 107° joules. It is easy to check from the above equation that 1 atomic mass unit (uw)
+
+is equivalent to about 931 mega electron volts (MeV) of energy.
+
+Sources of Energy

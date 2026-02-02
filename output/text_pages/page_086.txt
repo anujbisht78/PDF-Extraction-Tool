@@ -1,0 +1,60 @@
+Activity 5.2
+
+Consider the isotopes of chlorine, Cl-35 and C1-37.
+
+Would you place them in different slots because their atomic
+masses are different?
+
+Or would you place them in the same position because their
+chemical properties are the same?
+
+Thus, isotopes of all elements posed a challenge to Mendeleev’s
+Periodic Law. Another problem was that the atomic masses do not increase
+in a regular manner in going from one element to the next. So it was not
+possible to predict how many elements could be discovered between
+two elements — especially when we consider the heavier elements.
+
+Q U ES TION $
+
+Use Mendeléev’s Periodic Table to predict the formulae for the oxides of
+the following elements:
+
+K, C, AI, Si, Ba.
+
+Besides gallium, which other elements have since been discovered that
+were left by Mendeléev in his Periodic Table? (any two)
+
+What were the criteria used by Mendeléev in creating his Periodic Table?
+
+Why do you think the noble gases are placed in a separate group?
+
+5.3 MAKING ORDER OUT OF CHAOS - THE MODERN
+PERIODIC TABLE
+
+In 1913, Henry Moseley showed that the atomic number of an element
+is amore fundamental property than its atomic mass as described below.
+Accordingly, Mendeléev’s Periodic Law was modified and atomic number
+was adopted as the basis of Modern Periodic Table and the Modern
+Periodic Law can be stated as follows:
+
+‘Properties of elements are a periodic function of their atomic number.’
+
+Let us recall that the atomic number gives us the number of protons
+in the nucleus of an atom and this number increases by one in going
+from one element to the next. Elements, when arranged in order of
+increasing atomic number Z, lead us to the classification known as the
+Modern Periodic Table (Table 5.6). Prediction of properties of elements
+could be made with more precision when elements were arranged on
+the basis of increasing atomic number.
+
+Activity 5.3
+
+How were the positions of cobalt and nickel resolved in the Modern Periodic Table?
+
+How were the positions of isotopes of various elements decided in the Modern Periodic Table?
+Is it possible to have an element with atomic number 1.5 placed between hydrogen
+and helium?
+
+Where do you think should hydrogen be placed in the Moder Periodic Table?
+
+Periodic Classification of Elements 85

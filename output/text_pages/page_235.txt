@@ -1,0 +1,57 @@
+There is a momentary deflection in the needle of
+the galvanometer, say to the right. This indicates
+the presence of a current in the coil AB. The
+deflection becomes zero the moment the motion
+of the magnet stops.
+
+Now withdraw the north pole of the magnet away
+from the coil. Now the galuanometer is deflected
+toward the left, showing that the current is now
+set up in the direction opposite to the first.
+Place the magnet stationary at a point near to
+the coil, keeping its north pole towards the end
+B of the coil. We see that the galuanometer needle
+deflects toward the right when the coil is moved
+towards the north pole of the magnet. Similarly
+the needle moves toward left when the coil is
+moved away.
+
+When the coil is kept stationary with respect to
+the magnet, the deflection of the galuanometer
+drops to zero. What do you conclude from this
+activity?
+
+Figure 13.16
+
+Moving a magnet towards a coil sets up a
+current in the coil circuit, as indicated by
+deflection in the galvanometer needle.
+
+A galvanometer is an instrument that can detect
+the presence of a current in a circuit. The pointer
+remains at zero (the centre of the scale) for zero
+current flowing through it. It can deflect either
+to the left or to the right of the zero mark
+depending on the direction of current.
+
+You can also check that if you had moved south pole of the magnet
+towards the end B of the coil, the deflections in the galuanometer would
+just be opposite to the previous case. When the coil and the magnet are
+both stationary, there is no deflection in the galvuanometer. It is, thus,
+clear from this activity that motion of a magnet with respect to the coil
+produces an induced potential difference, which sets up an induced
+electric current in the circuit.
+
+Michael Faraday was an experimental physicist. He had no formal
+education. He worked in a book-binding shop during his early years.
+He used to read books that came for binding. This way Faraday
+developed his interest in science. He got an opportunity to listen to
+some public lectures by Humphrey Davy of Royal Institute. He made
+careful notes of Davy’s lectures and sent them to Davy. Soon he was
+made an assistant in Davy’s laboratory at the Royal Institute. Faraday
+made several path-breaking discoveries that include electromagnetic
+induction and the laws of electrolysis. Several universities conferred
+on him the honorary degrees but he turned down such honours. Faraday loved his
+science work more than any honour.
+
+4 Science

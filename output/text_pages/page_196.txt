@@ -1,0 +1,79 @@
+starlight entering the eye flickers — the star sometimes appears brighter,
+and at some other time, fainter, which is the twinkling effect.
+
+Why don’t the planets twinkle? The planets are much closer to the
+earth, and are thus seen as extended sources. If we consider a planet as
+a collection of a large number of point-sized sources of light, the total
+variation in the amount of light entering our eye from all the individual
+point-sized sources will average out to zero, thereby
+nullifying the twinkling effect.
+
+Advance sunrise and delayed sunset
+
+The Sun is visible to us about 2 minutes before the
+
+actual sunrise, and about 2 minutes after the actual Q. oo poet
+sunrise, we mean the actual crossing of the horizon by
+
+the Sun. Fig. 11.10 shows the actual and apparent f
+positions of the Sun with respect to the horizon. The
+
+time difference between actual sunset and the apparent
+
+sunset is about 2 minutes. The apparent flattening of
+
+the Sun’s disc at sunrise and sunset is also due to the
+
+sunset because of atmospheric refraction. By actual “a en
+4 y . Nyt
+
+Same phenomenon. Atmosphere
+
+11.6 SCATTERING OF LIGHT
+
+The interplay of light with objects around us gives rise to several
+spectacular phenomena in nature. The blue colour of the sky, colour of
+water in deep sea, the reddening of the sun at sunrise and the sunset
+are some of the wonderful phenomena we are familiar with. In the previous
+class, you have learnt about the scattering of light by colloidal particles.
+The path of a beam of light passing through a true solution is not visible.
+However, its path becomes visible through a colloidal solution where the
+size of the particles is relatively larger.
+
+11.6.1 Tyndall Effect
+
+The earth’s atmosphere is a heterogeneous mixture of minute particles.
+These particles include smoke, tiny water droplets, suspended particles
+of dust and molecules of air. When a beam of light strikes such fine
+particles, the path of the beam becomes visible. The light reaches us,
+after being reflected diffusely by these particles. The phenomenon of
+scattering of light by the colloidal particles gives rise to Tyndall effect
+which you have studied in Class [X. This phenomenon is seen when a
+fine beam of sunlight enters a smoke-filled room through a small hole.
+Thus, scattering of light makes the particles visible. Tyndall effect can
+also be observed when sunlight passes through a canopy of a dense
+forest. Here, tiny water droplets in the mist scatter light.
+
+The colour of the scattered light depends on the size of the
+scattering particles. Very fine particles scatter mainly blue light while
+particles of larger size scatter light of longer wavelengths. If the size
+of the scattering particles is large enough, then, the scattered light may
+even appear white.
+
+The Human Eye and the Colourful World
+
+Apparent position u
+of the Sun a
+
+- 7
+
+“
+
+oy
+
+Figure 11.10
+Atmospheric refraction
+effects at sunrise and
+sunset
+
+195

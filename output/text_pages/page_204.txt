@@ -1,0 +1,42 @@
+Table 12.1 Symbols of some commonly used components in circuit diagrams
+
+Components Symbols
+
+1 An electric cell = -—_.
+
+2 A battery or a combination of cells a | || -—
+
+3 Plug key or switch (open) —( eH
+4 Plug key or switch (closed) —{e)—
+
+5 A wire joint |
+6 Wires crossing without joining
+
+7 Electric bulb or
+
+3
+
+8 A resistor of resistance R
+
+|
+
+9 Variable resistance or rheostat
+
+10 Ammeter
+
+11 Voltmeter
+
+ry
+
+12.4 OHM’'S LAW
+
+Is there a relationship between the potential difference across a conductor
+and the current through it? Let us explore with an Activity.
+
+Activity 12.1
+
+= Set up a circuit as shown in Fig. 12.2, consisting of a nichrome wire XY of length, say 0.5
+m, an ammeter, a voltmeter and four cells of 1.5 V each. (Nichrome is an alloy of nickel,
+chromium, manganese, and iron metals.)
+
+Electricity 203
