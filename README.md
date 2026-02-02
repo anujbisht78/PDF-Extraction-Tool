@@ -71,6 +71,8 @@ NCERT textbooks differ from normal PDFs because they use:
 ---
 
 ## 📂 Output Directory Structure
+
+```
 output/
 ├── text_pages/
 │   ├── page_001.txt
@@ -87,4 +89,5 @@ output/
 │
 ├── manifest.json
 └── extraction_report.txt
+```
 
